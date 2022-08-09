@@ -11,6 +11,8 @@
         "Extension Packs"
     ],
     "extensionPack": [ 
-        "publisher.extensionName"
+        "4ops.terraform",
+        "GoogleCloudTools.cloudcode",
+        "andrewdircks.google-cloud-platform-ssh"
     ]
 }
