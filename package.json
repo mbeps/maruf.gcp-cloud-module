@@ -1,0 +1,16 @@
+{
+    "name": "gcp-cloud-module",
+    "displayName": "GCP Cloud Module",
+    "description": "Collections of extensions for Google Cloud Platform",
+    "version": "0.0.1",
+    "publisher": "Maruf",
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "publisher.extensionName"
+    ]
+}
