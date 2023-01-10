@@ -4,6 +4,7 @@
     "description": "Collections of extensions for Google Cloud Platform",
     "version": "0.0.1",
     "publisher": "Maruf",
+    "repository": "https://github.com/mbeps/maruf.gcp-cloud-module",
     "engines": {
         "vscode": "^1.70.0"
     },
